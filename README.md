@@ -11,3 +11,5 @@ Manage a list of favorite TV shows - add and remove shows.
 <br><br><br>
 ## Description:
 The TV Show Reminder Chrome Extension provides a convenient way to track TV shows. Users can access the extension and view shows airing on the current day, filter them by topics like "sci-fi" and "history." They can also look back at shows that aired in the past (yesterday, this week) or see upcoming shows (next few days, next week, next month). The extension allows users to manage a list of favorite shows, adding or removing shows based on their preferences.
+
+

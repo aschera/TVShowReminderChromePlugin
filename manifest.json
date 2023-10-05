@@ -1,0 +1,11 @@
+{
+    "manifest_version": 3,
+    "name": "TV Show Reminder",
+    "version": "1.0",
+    "description": "Track and set reminders for your favorite TV shows.",
+    "permissions": ["storage"],
+    "action": {
+      "default_popup": "popup.html"
+    }
+  }
+  
